@@ -1,15 +1,15 @@
 # Site settings
 title: Z. Zhou
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
+email: 
 copyright_name: Z. Zhou
 description: "Personal blog"
 baseurl: ""
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  StartBootstrap
-email_username:  your-email@yourdomain.com
+url: "http://zzhou.me"
+twitter_username: 
+github_username:  
+facebook_username:  
+email_username:  
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
